@@ -8,8 +8,8 @@ import Navbar from './Navbar'
 import Project from './Project'
 import Projects from './Projects'
 import SEO from './SEO'
-import Services from './Services'
+import Skills from './Skills'
 import Sidebar from './Sidebar'
 import Title from './Title'
 
-export { Blog, Blogs, Footer, Hero, jobs, Layout, Navbar, Project, Projects, SEO, Services, Sidebar, Title }
+export { Blog, Blogs, Footer, Hero, jobs, Layout, Navbar, Project, Projects, SEO, Skills, Sidebar, Title }

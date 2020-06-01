@@ -1,10 +1,11 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { Layout, Hero, Services, Jobs, Projects, Blogs } from "../components"
+import { Layout, Hero, Skills, Jobs, Projects, Blogs } from "../components"
 export default () => {
   return (
     <Layout>
       <Hero />
+      <Skills />
     </Layout>
   );
 }

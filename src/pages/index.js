@@ -4,7 +4,7 @@ import { Layout, Hero, Services, Jobs, Projects, Blogs } from "../components"
 export default () => {
   return (
     <Layout>
-
+      <Hero />
     </Layout>
   );
 }

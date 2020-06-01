@@ -22,6 +22,11 @@ const data = [
     id: 3,
     icon: <FaGithubSquare className="social-icon"></FaGithubSquare>,
     url: "https://www.github.com/guhandelta",
+  },
+  {
+    id: 4,
+    icon: <FaTwitterSquare className="social-icon"></FaTwitterSquare>,
+    url: "https://www.twitter.com/guhandelta",
   }
 ]
 const links = data.map(link => {
